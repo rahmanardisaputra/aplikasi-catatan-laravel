@@ -13,7 +13,7 @@ class Catatan extends Model
     public function user()
     {
         return $this->belongsTo(User::class);
-        
+        hjdfkjdkfjhgkdfgh
 
         ini perubahan baru lagi 
     }

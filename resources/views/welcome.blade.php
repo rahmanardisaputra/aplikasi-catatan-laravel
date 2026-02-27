@@ -1,0 +1,1 @@
+selamat datang <a href="{{ route('login') }}">login</a> atau <a href="{{ route('register') }}">register</a> untuk melanjutkan.
